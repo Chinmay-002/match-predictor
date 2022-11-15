@@ -1,16 +1,5 @@
 # **Cricket Match Outcome Predictor**
 
-
-## **Table of Contents**
-### 1. [About](#About)  
-### 2. [Contributors](#Contributors)  
-### 3. [Problem Definition](#Problem-Definition)
-### 4. [Models Used](#Models-Used)
-### 5. [Process](#Process)  
-### 6. [Conclusion](#Conclusion)  
-### 6. [References](#References)  
-
-
 ## **About**
 
 Project repository for SC1015 (Introduction to Data Science and Artificial Intelligence)
